@@ -1,0 +1,442 @@
+[
+  {
+    "idUtrka": 1,
+    "datum": "2026-10-24",
+    "spol": "Ž",
+    "lokacija": "Sölden",
+    "drzavaLokacije": "Austrija",
+    "disciplina": "Veleslalom",
+    "skijasi": [
+      {
+        "imeSkijas": "Vanesa",
+        "prezimeSkijas": "Kasper",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:17.61"
+      },
+      {
+        "imeSkijas": "Stefanie",
+        "prezimeSkijas": "Gross",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.97"
+      },
+      {
+        "imeSkijas": "Simone",
+        "prezimeSkijas": "Wild",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Fischer",
+        "vrijeme": "00:02:16.92"
+      },
+      {
+        "imeSkijas": "Wendy",
+        "prezimeSkijas": "Holdener",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:16.74"
+      },
+      {
+        "imeSkijas": "Camille",
+        "prezimeSkijas": "Rast",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:15.63"
+      },
+      {
+        "imeSkijas": "Nina",
+        "prezimeSkijas": "O'Brien",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.51"
+      },
+      {
+        "imeSkijas": "Hilma",
+        "prezimeSkijas": "Lovebloom",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:16.47"
+      },
+      {
+        "imeSkijas": "Elisabeth",
+        "prezimeSkijas": "Bocock",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.44"
+      },
+      {
+        "imeSkijas": "AJ",
+        "prezimeSkijas": "Hurt",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:16.43"
+      },
+      {
+        "imeSkijas": "Mikaela",
+        "prezimeSkijas": "Shiffrin",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:02:15.65"
+      },
+      {
+        "imeSkijas": "Paula",
+        "prezimeSkijas": "Moltzan",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Van Deer",
+        "vrijeme": "00:02:14.82"
+      },
+      {
+        "imeSkijas": "Franziska",
+        "prezimeSkijas": "Gritsch",
+        "drzavaSkijasa": "Austrija",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:02:15.94"
+      },
+      {
+        "imeSkijas": "Kira",
+        "prezimeSkijas": "Weidle-Winkelmann",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.98"
+      },
+      {
+        "imeSkijas": "Lena",
+        "prezimeSkijas": "Duerr",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:16.79"
+      },
+      {
+        "imeSkijas": "Emma",
+        "prezimeSkijas": "Aicher",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:15.34"
+      },
+      {
+        "imeSkijas": "Alice",
+        "prezimeSkijas": "Pazzaglia",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:18.4"
+      },
+      {
+        "imeSkijas": "Lara",
+        "prezimeSkijas": "Della Mea",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Fischer",
+        "vrijeme": "00:02:16.55"
+      },
+      {
+        "imeSkijas": "Asja",
+        "prezimeSkijas": "Zenere",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Salomon",
+        "vrijeme": "00:02:15.54"
+      },
+      {
+        "imeSkijas": "Thea Louise",
+        "prezimeSkijas": "Stjernesund",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.74"
+      },
+      {
+        "imeSkijas": "Mina Fuerst",
+        "prezimeSkijas": "Holtmann",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:02:16.51"
+      },
+      {
+        "imeSkijas": "Neja",
+        "prezimeSkijas": "Dvornik",
+        "drzavaSkijasa": "Slovenija",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:18.65"
+      },
+      {
+        "imeSkijas": "Zrinka",
+        "prezimeSkijas": "Ljutić",
+        "drzavaSkijasa": "Hrvatska",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:02:16.17"
+      },
+      {
+        "imeSkijas": "Lara",
+        "prezimeSkijas": "Colturi",
+        "drzavaSkijasa": "Albanija",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:14.83"
+      },
+      {
+        "imeSkijas": "Hanna",
+        "prezimeSkijas": "Aronsson Elfman",
+        "drzavaSkijasa": "Švedska",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.59"
+      },
+      {
+        "imeSkijas": "Estelle",
+        "prezimeSkijas": "Alphand",
+        "drzavaSkijasa": "Švedska",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:16.32"
+      },
+      {
+        "imeSkijas": "Sara",
+        "prezimeSkijas": "Hector",
+        "drzavaSkijasa": "Švedska",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:15.45"
+      },
+      {
+        "imeSkijas": "Alice",
+        "prezimeSkijas": "Robinson",
+        "drzavaSkijasa": "Novi Zeland",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:02:15.83"
+      },
+      {
+        "imeSkijas": "Maryna",
+        "prezimeSkijas": "Gasienica-Daniel",
+        "drzavaSkijasa": "Poljska",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:02:16.94"
+      },
+      {
+        "imeSkijas": "Petra",
+        "prezimeSkijas": "Vlhova",
+        "drzavaSkijasa": "Slovačka",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:02:16.9"
+      },
+      {
+        "imeSkijas": "Britt",
+        "prezimeSkijas": "Richardson",
+        "drzavaSkijasa": "Kanada",
+        "proizvodacSkija": "Dynastar",
+        "vrijeme": "00:02:17.11"
+      }
+    ]
+  },
+  {
+    "idUtrka": 2,
+    "datum": "2026-10-25",
+    "spol": "M",
+    "lokacija": "Sölden",
+    "drzavaLokacije": "Austrija",
+    "disciplina": "Veleslalom",
+    "skijasi": [
+      {
+        "imeSkijas": "Lucas",
+        "prezimeSkijas": "Pinheiro Braathen",
+        "drzavaSkijasa": "Brazil",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:01:44.72"
+      },
+      {
+        "imeSkijas": "Lenz",
+        "prezimeSkijas": "Haechler",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Stöckli",
+        "vrijeme": "00:01:46.86"
+      },
+      {
+        "imeSkijas": "Thomas",
+        "prezimeSkijas": "Tumler",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Stöckli",
+        "vrijeme": "00:01:46.61"
+      },
+      {
+        "imeSkijas": "Marco",
+        "prezimeSkijas": "Odermatt",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Stöckli",
+        "vrijeme": "00:01:45.21"
+      },
+      {
+        "imeSkijas": "Loic",
+        "prezimeSkijas": "Meillard",
+        "drzavaSkijasa": "Švicarska",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:01:45.2"
+      },
+      {
+        "imeSkijas": "River",
+        "prezimeSkijas": "Radamus",
+        "drzavaSkijasa": "Sjedinjene Američke Države",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:01:45.54"
+      },
+      {
+        "imeSkijas": "Joshua",
+        "prezimeSkijas": "Sturm",
+        "drzavaSkijasa": "Austrija",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:01:46.3"
+      },
+      {
+        "imeSkijas": "Stefan",
+        "prezimeSkijas": "Brennsteiner",
+        "drzavaSkijasa": "Austrija",
+        "proizvodacSkija": "Fischer",
+        "vrijeme": "00:01:45.93"
+      },
+      {
+        "imeSkijas": "Patrick",
+        "prezimeSkijas": "Feurstein",
+        "drzavaSkijasa": "Austrija",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:01:45.83"
+      },
+      {
+        "imeSkijas": "Raphael",
+        "prezimeSkijas": "Haaser",
+        "drzavaSkijasa": "Austrija",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:01:45.58"
+      },
+      {
+        "imeSkijas": "Alexander",
+        "prezimeSkijas": "Schmid",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:01:46.5"
+      },
+      {
+        "imeSkijas": "Anton",
+        "prezimeSkijas": "Grammel",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Head",
+        "vrijeme": "00:01:46.26"
+      },
+      {
+        "imeSkijas": "Fabian",
+        "prezimeSkijas": "Gratz",
+        "drzavaSkijasa": "Njemačka",
+        "proizvodacSkija": "Fischer",
+        "vrijeme": "00:01:45.67"
+      },
+      {
+        "imeSkijas": "Giovanni",
+        "prezimeSkijas": "Borsoti",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": null
+      },
+      {
+        "imeSkijas": "Giovanni",
+        "prezimeSkijas": "Franzoni",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": null
+      },
+      {
+        "imeSkijas": "Alex",
+        "prezimeSkijas": "Vinatzer",
+        "drzavaSkijasa": "Italija",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:01:45.8"
+      },
+      {
+        "imeSkijas": "Atle Lie",
+        "prezimeSkijas": "Mcgrath",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Head",
+        "vrijeme": null
+      },
+      {
+        "imeSkijas": "Oscar Andreas",
+        "prezimeSkijas": "Sandvik",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Head",
+        "vrijeme": null
+      },
+      {
+        "imeSkijas": "Hans",
+        "prezimeSkijas": "Grahl-Madsen",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Van Deer",
+        "vrijeme": "00:01:53.02"
+      },
+      {
+        "imeSkijas": "Henrik",
+        "prezimeSkijas": "Kristoffersen",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Van Deer",
+        "vrijeme": "00:01:46.56"
+      },
+      {
+        "imeSkijas": "Rasmus",
+        "prezimeSkijas": "Bakkevig",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Atomic",
+        "vrijeme": "00:01:46.18"
+      },
+      {
+        "imeSkijas": "Eirik Hystad",
+        "prezimeSkijas": "Solberg",
+        "drzavaSkijasa": "Norveška",
+        "proizvodacSkija": "Van Deer",
+        "vrijeme": "00:01:45.81"
+      },
+      {
+        "imeSkijas": "Alban",
+        "prezimeSkijas": "Elezi Cannaferina",
+        "drzavaSkijasa": "Francuska",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:01:46.85"
+      },
+      {
+        "imeSkijas": "Thibaut",
+        "prezimeSkijas": "Favrot",
+        "drzavaSkijasa": "Francuska",
+        "proizvodacSkija": "Dynastar",
+        "vrijeme": "00:01:46.12"
+      },
+      {
+        "imeSkijas": "Leo",
+        "prezimeSkijas": "Anguenot",
+        "drzavaSkijasa": "Francuska",
+        "proizvodacSkija": "Rossignol",
+        "vrijeme": "00:01:45.82"
+      },
+      {
+        "imeSkijas": "Freddy",
+        "prezimeSkijas": "Carrick-Smith",
+        "drzavaSkijasa": "Ujedinjeno Kraljevstvo",
+        "proizvodacSkija": "Dynastar",
+        "vrijeme": "00:01:45.98"
+      },
+      {
+        "imeSkijas": "Eduard",
+        "prezimeSkijas": "Hallberg",
+        "drzavaSkijasa": "Finska",
+        "proizvodacSkija": "Fischer",
+        "vrijeme": "00:01:46.29"
+      },
+      {
+        "imeSkijas": "Žan",
+        "prezimeSkijas": "Kranjec",
+        "drzavaSkijasa": "Slovenija",
+        "proizvodacSkija": "Nordica",
+        "vrijeme": "00:01:46.31"
+      },
+      {
+        "imeSkijas": "Filip",
+        "prezimeSkijas": "Zubčić",
+        "drzavaSkijasa": "Hrvatska",
+        "proizvodacSkija": "Nordica",
+        "vrijeme": "00:01:46.38"
+      },
+      {
+        "imeSkijas": "Sam",
+        "prezimeSkijas": "Maes",
+        "drzavaSkijasa": "Belgija",
+        "proizvodacSkija": "Völkl",
+        "vrijeme": "00:01:46.44"
+      }
+    ]
+  }
+]
