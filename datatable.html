@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tablica podataka - Pretraga</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.datatables.net/v/dt/dt-3.1.5/datatables.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="main-container">
+      <h2>Pretraživanje skupa podataka</h2>
+
+      <div class="search-card">
+        <form id="searchForm" method="GET">
+          <div class="form-grid">
+            <div class="form-group full-width">
+              <label for="att">Polje za pretragu</label>
+              <input
+                type="text"
+                id="att"
+                name="att"
+                placeholder="Unesite vrijednost"
+              />
+              <small>Po ovoj vrijednosti će se pretraživati podaci.</small>
+            </div>
+
+            <div class="form-group">
+              <label for="fieldSelect">Atribut</label>
+              <select id="fieldSelect" name="field">
+                <option value="wildcard">Sva polja (wildcard)</option>
+                <option value="ime">Ime</option>
+                <option value="prezime">Prezime</option>
+              </select>
+            </div>
+
+            <div class="form-group button-group">
+              <button type="submit">Pretraži</button>
+            </div>
+          </div>
+        </form>
+
+        <div
+          class="download-container"
+          style="margin-top: 15px; margin-bottom: 20px"
+        >
+          <button id="downloadJsonBtn" type="button" style="margin-right: 10px">
+            Preuzmi JSON
+          </button>
+          <button id="downloadCsvBtn" type="button">Preuzmi CSV</button>
+        </div>
+      </div>
+
+      <div class="table-container" style="margin-top: 30px">
+        <table
+          id="dataTable"
+          border="1"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>ID Utrka</th>
+              <th>Datum</th>
+              <th>Spol</th>
+              <th>Lokacija</th>
+              <th>Država Lokacije</th>
+              <th>Disciplina</th>
+              <th>Ime Skijaša</th>
+              <th>Prezime Skijaša</th>
+              <th>Država Skijaša</th>
+              <th>Proizvođač Skija</th>
+              <th>Vrijeme</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Ovdje script.js ubacuje podatke  -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

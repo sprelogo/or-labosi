@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 30px;
+}
+
+.main-container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+/* Okvir oko forme */
+.search-card {
+  background: #fdfdfd;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 30px;
+}
+
+/* Korištenje CSS Grida za raspored elemenata */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 15px;
+  align-items: flex-end;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group.full-width {
+  grid-column: 1 / -1;
+}
+
+label {
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+input[type="text"]::placeholder {
+  color: #999;
+}
+
+small {
+  color: #666;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+select {
+  padding: 10px;
+  background-color: #4a5568;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  height: 41px; /* Usklađeno s visinom inputa/selecta */
+  transition: background-color 0.2s;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}

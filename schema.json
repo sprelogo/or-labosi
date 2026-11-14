@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sprelogo/or-labosi/schema.json",
+  "title": "skijaske_utrke",
+  "description": "Popis skijaša, njihovi podaci i rezultati na utrkama Svjetskog kupa u sezoni 2026./27.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Utrka",
+    "description": "Objekt sadrži sve podatke o svim utrkama",
+    "properties": {
+      "idUtrka": {
+        "type": "number",
+        "title": "id utrke",
+        "description": "Id neke utrke"
+      },
+      "datum": {
+        "type": "string",
+        "title": "Datum utrke",
+        "description": "Datum utrke"
+      },
+      "spol": {
+        "type": "string",
+        "title": "Spol utrke",
+        "description": "Spol utrke"
+      },
+      "lokacija": {
+        "type": "string",
+        "title": "Lokacija utrke",
+        "description": "Lokacija utrke"
+      },
+      "drzavaLokacije": {
+        "type": "string",
+        "title": "Država lokacije",
+        "description": "Država lokacije"
+      },
+      "disciplina": {
+        "type": "string",
+        "title": "Disciplina",
+        "description": "Disciplina"
+      },
+      "skijasi": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "title": "Skijaši",
+          "description": "Popis svih skijaša koji su vozili neku utrku",
+          "properties": {
+            "imeSkijas": {
+              "type": "string",
+              "title": "Ime skijaša",
+              "description": "Ime skijaša"
+            },
+            "prezimeSkijas": {
+              "type": "string",
+              "title": "Prezime skijaša",
+              "description": "Prezime skijaša"
+            },
+            "drzavaSkijasa": {
+              "type": "string",
+              "title": "Država skijaša",
+              "description": "Država za koju se skijaš natječe"
+            },
+            "proizvodacSkija": {
+              "type": "string",
+              "title": "Proizvođač skija",
+              "description": "Proizvođač skija nekog skijaša"
+            },
+            "vrijeme": {
+              "type": "string",
+              "title": "Vrijeme",
+              "description": "Vrijeme koje je nekom skijašu bilo potrebno da dođe do cilja"
+            }
+          },
+          "required": [
+            "imeSkijas",
+            "prezimeSkijas",
+            "drzavaSkijasa",
+            "proizvodacSkija"
+          ]
+        }
+      }
+    },
+    "required": [
+      "idUtrka",
+      "datum",
+      "spol",
+      "lokacija",
+      "drzavaLokacije",
+      "disciplina",
+      "skijasi"
+    ]
+  }
+}
