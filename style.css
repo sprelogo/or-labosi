@@ -21,7 +21,6 @@ h2 {
   font-size: 1.5rem;
 }
 
-/* Okvir oko forme */
 .search-card {
   background: #fdfdfd;
   border: 1px solid #e0e0e0;
@@ -30,7 +29,6 @@ h2 {
   margin-bottom: 30px;
 }
 
-/* Korištenje CSS Grida za raspored elemenata */
 .form-grid {
   display: grid;
   grid-template-columns: 1fr auto;
@@ -88,7 +86,7 @@ button[type="submit"] {
   border-radius: 4px;
   font-size: 0.95rem;
   cursor: pointer;
-  height: 41px; /* Usklađeno s visinom inputa/selecta */
+  height: 41px;
   transition: background-color 0.2s;
 }
 
